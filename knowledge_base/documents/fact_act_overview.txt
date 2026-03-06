@@ -1,0 +1,51 @@
+FAIR AND ACCURATE CREDIT TRANSACTIONS ACT (FACT ACT) — OVERVIEW
+Public Law 108-159 (2003) — Amendment to FCRA
+
+The Fair and Accurate Credit Transactions Act (FACT Act) amended the Fair Credit Reporting Act to enhance consumer protections against identity theft and improve the accuracy of consumer credit information.
+
+KEY PROVISIONS:
+
+1. FREE ANNUAL CREDIT REPORTS
+The FACT Act established the right of every consumer to receive one free credit report per year from each of the three major nationwide consumer reporting agencies. Reports can be requested at AnnualCreditReport.com.
+
+2. FRAUD ALERTS
+Consumers who suspect they are or may become victims of identity theft can place fraud alerts on their credit files:
+- Initial Fraud Alert: Lasts 1 year. Requires creditors to take reasonable steps to verify identity before extending credit.
+- Extended Fraud Alert: Lasts 7 years. Requires creditors to contact the consumer before extending credit.
+- Active Duty Alert: For military members on active duty. Lasts 1 year.
+
+3. CREDIT FREEZES (SECURITY FREEZES)
+Consumers can freeze their credit files to prevent new accounts from being opened. A credit freeze restricts access to the consumer's credit report. Fees for placing and lifting freezes were later eliminated by federal law in 2018.
+
+4. IDENTITY THEFT PROTECTIONS
+- Consumers can place identity theft flags on their credit reports
+- CRAs must block information resulting from identity theft within 4 business days
+- Creditors must provide copies of business records related to identity theft upon request
+- FTC maintains a centralized identity theft complaint database
+
+5. TRUNCATION OF ACCOUNT NUMBERS
+Electronically printed credit card receipts must not display more than the last 5 digits of the card number and must not display the expiration date.
+
+6. DISPOSAL RULE
+Any person who maintains or possesses consumer report information must properly dispose of it to prevent unauthorized access. This applies to both paper and electronic records.
+
+7. ACCURACY AND DISPUTE IMPROVEMENTS
+- Furnishers must investigate disputes directly from consumers (not just from CRAs)
+- CRAs must provide results of reinvestigation within 5 business days
+- CRAs must provide a notice of the consumer's right to add a statement to their file
+- Furnishers must have reasonable policies to ensure the accuracy of reported information
+
+8. RISK-BASED PRICING NOTICES
+When a consumer receives less favorable credit terms based on information in their credit report, the creditor must provide a risk-based pricing notice or a credit score disclosure.
+
+9. RED FLAGS RULE
+Financial institutions and creditors must develop and implement written Identity Theft Prevention Programs to detect, prevent, and mitigate identity theft.
+
+IMPACT ON CREDIT REPORTS AND SCORES:
+- Medical information protections: Medical debt information has additional restrictions on how it can be shared and used in credit decisions
+- Accuracy requirements: Strengthened obligations for both CRAs and furnishers to maintain accurate information
+- Dispute resolution improvements: More robust procedures for investigating and resolving consumer disputes
+- Score disclosure: When a score is used in an adverse action, the specific score and key factors must be disclosed
+
+ENFORCEMENT:
+Enforced by FTC, CFPB, and federal banking regulators. State attorneys general may also enforce certain provisions.

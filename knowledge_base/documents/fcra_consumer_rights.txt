@@ -1,0 +1,45 @@
+FAIR CREDIT REPORTING ACT (FCRA) — CONSUMER RIGHTS SUMMARY
+15 U.S.C. § 1681 et seq.
+
+The Fair Credit Reporting Act (FCRA) is the primary federal law governing how consumer credit information is collected, shared, and used. It was enacted to ensure fairness, accuracy, and privacy of information in the files of consumer reporting agencies (CRAs).
+
+KEY CONSUMER RIGHTS UNDER FCRA:
+
+1. RIGHT TO KNOW WHAT IS IN YOUR FILE
+You have the right to know what information is in your credit file. At your request, a consumer reporting agency must give you the information in your file, and a list of everyone who has requested it recently. There is no charge for the report if a person has taken adverse action against you because of information in your credit report, if you request it within 60 days.
+
+2. RIGHT TO A FREE ANNUAL CREDIT REPORT
+Each of the three nationwide consumer reporting agencies (Equifax, Experian, TransUnion) must provide you with a free copy of your credit report once every 12 months, upon request. You can request your free annual credit report at AnnualCreditReport.com.
+
+3. RIGHT TO KNOW YOUR CREDIT SCORE
+You have the right to request your credit score from consumer reporting agencies. The score must be accompanied by information about the score range and the key factors that adversely affected the score.
+
+4. RIGHT TO DISPUTE INCOMPLETE OR INACCURATE INFORMATION
+If you identify information in your file that is incomplete or inaccurate and report it to the consumer reporting agency, the agency must investigate unless your dispute is frivolous. The agency must forward all relevant data you provide about the inaccuracy to the organization that provided the data. After the information provider receives notice of a dispute from the agency, it must investigate, review all relevant information, and report the results to the agency.
+
+5. RIGHT TO HAVE INACCURATE INFORMATION CORRECTED OR DELETED
+Consumer reporting agencies must correct or delete inaccurate, incomplete, or unverifiable information. Normally within 30 days after receiving your dispute, the agency must remove or correct the information. If an item is found to be inaccurate or unverifiable, it must be promptly removed.
+
+6. RIGHT TO LIMIT PRE-SCREENED OFFERS
+Consumers may opt out of having their information used for unsolicited credit or insurance offers. You can opt out with the nationwide credit bureaus at 1-888-5-OPT-OUT or at OptOutPrescreen.com.
+
+7. RIGHT TO SEEK DAMAGES
+A consumer may sue a consumer reporting agency, a user, or a furnisher for violations of the FCRA in state or federal court.
+
+ADVERSE ACTION REQUIREMENTS:
+When a lender, employer, insurer, or other entity takes an adverse action against a consumer based on information in a credit report, they must:
+- Provide the consumer with a notice of the adverse action
+- Identify the consumer reporting agency that provided the report
+- Inform the consumer of their right to obtain a free copy of the report
+- Inform the consumer of their right to dispute the accuracy of the information
+
+INFORMATION FURNISHER OBLIGATIONS:
+Organizations that furnish information to CRAs must:
+- Provide accurate information
+- Investigate disputes forwarded by CRAs
+- Correct information found to be inaccurate
+- Notify CRAs when information is disputed by a consumer
+- Not report information they know to be inaccurate
+
+TIME LIMITS ON NEGATIVE INFORMATION:
+Most negative information generally must be removed from credit reports after 7 years. Bankruptcies can remain for up to 10 years. Unpaid tax liens may remain for up to 15 years. Credit inquiries remain for up to 2 years.

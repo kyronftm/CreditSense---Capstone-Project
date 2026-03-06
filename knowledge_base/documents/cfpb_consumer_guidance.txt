@@ -1,0 +1,99 @@
+CFPB CONSUMER GUIDANCE ON CREDIT REPORTS AND SCORES
+Consumer Financial Protection Bureau — Official Guidance
+
+UNDERSTANDING YOUR CREDIT REPORT:
+
+A credit report is a detailed record of your credit history prepared by a consumer reporting agency (CRA). The three major nationwide CRAs are Equifax, Experian, and TransUnion. Your credit report includes:
+
+1. Personal Information: Name, address, Social Security number, date of birth, employment information. This section is not used in calculating your credit score.
+
+2. Credit Accounts (Trade Lines): For each account, the report shows the creditor name, type of account, account number (partially masked), date opened, credit limit or loan amount, account balance, and payment history.
+
+3. Public Records: Bankruptcies. Note: Tax liens and civil judgments are no longer included on credit reports as of 2018.
+
+4. Inquiries: A list of everyone who has accessed your credit report. Hard inquiries (from credit applications) may affect your score. Soft inquiries (from pre-approved offers, employer checks, your own checks) do not.
+
+HOW CREDIT SCORES ARE CALCULATED:
+Credit scores are calculated using mathematical models that evaluate the information in your credit report. The most widely used scoring model is the FICO Score, which ranges from 300 to 850. VantageScore is another common model with the same range.
+
+The main factors are:
+- Payment history (most important): Whether you have paid past credit accounts on time
+- Amounts owed: How much of your available credit you are using (credit utilization)
+- Length of credit history: How long you have had credit accounts
+- New credit: How many new accounts you have opened recently
+- Types of credit: The variety of credit products you have
+
+WHAT IS A GOOD CREDIT SCORE?
+While each lender sets its own standards, general guidelines are:
+- 800+: Exceptional — likely to receive the best rates and terms
+- 740-799: Very Good — qualifies for better than average rates
+- 670-739: Good — considered acceptable by most lenders
+- 580-669: Fair — may qualify for credit but at higher rates
+- Below 580: Poor — may have difficulty obtaining credit
+
+HOW TO GET AND KEEP A GOOD CREDIT SCORE (CFPB Official Guidance):
+
+1. Pay your bills on time, every time
+- This is the most important step. Set up automatic payments if possible.
+- If you have missed payments, get current and stay current.
+
+2. Keep your credit card balances low
+- High credit utilization can lower your score.
+- Try to keep your balance below 30% of your credit limit.
+- You do not need to carry a balance to build credit.
+
+3. Don't close unused credit cards
+- Closing a card reduces your total available credit, which may increase your utilization ratio.
+- The length of your credit history matters, so keep older accounts open.
+
+4. Don't apply for too much new credit at once
+- Each application triggers a hard inquiry.
+- Multiple applications in a short time can appear risky to lenders.
+
+5. Check your credit reports regularly
+- Review all three reports at AnnualCreditReport.com
+- Look for and dispute any errors you find
+- You are entitled to a free report from each bureau every 12 months
+
+6. Consider a mix of credit types
+- Having both revolving (credit cards) and installment (loans) credit can help
+- Only take on credit you can manage responsibly
+
+DISPUTING ERRORS ON YOUR CREDIT REPORT (CFPB Process):
+
+Step 1: Obtain your credit reports from all three bureaus
+Step 2: Review each report carefully for errors including:
+- Accounts that do not belong to you
+- Incorrect payment history
+- Wrong balances or credit limits
+- Incorrect personal information
+- Accounts listed as open that you closed
+- Negative items that should have aged off
+
+Step 3: File disputes with each bureau showing the error
+- You can dispute online, by mail, or by phone
+- Include copies of supporting documents
+- Clearly identify each error and explain why it is wrong
+
+Step 4: The bureau must investigate within 30 days
+- The bureau forwards your dispute to the furnisher
+- The furnisher must investigate and report results
+- If the information cannot be verified, it must be removed
+
+Step 5: Review the results
+- The bureau must provide written results
+- If you disagree, you can add a statement to your file
+- You can re-dispute with additional evidence
+- You can also file a complaint with the CFPB
+
+SPECIAL PROTECTIONS FOR MILITARY SERVICEMEMBERS:
+- Active duty alerts on credit reports
+- Free credit monitoring for active duty members
+- Interest rate cap of 6% on pre-service debts (SCRA)
+- Protection from certain collection actions during active duty
+
+SPECIAL CONSIDERATIONS FOR MEDICAL DEBT:
+- Paid medical debt should not appear on credit reports
+- Medical debts under $500 should not appear on credit reports
+- Medical debt must be at least 1 year old before appearing on credit reports
+- Veterans' medical debt from VA programs should not appear on credit reports

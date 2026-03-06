@@ -1,0 +1,53 @@
+TRUTH IN LENDING ACT (TILA) — OVERVIEW
+15 U.S.C. § 1601 et seq. | Regulation Z (12 CFR Part 1026)
+
+The Truth in Lending Act (TILA) requires lenders to provide borrowers with clear and conspicuous disclosures of key terms and costs of lending arrangements. Its purpose is to promote the informed use of consumer credit.
+
+KEY DISCLOSURE REQUIREMENTS:
+
+1. ANNUAL PERCENTAGE RATE (APR)
+Creditors must disclose the APR — the total cost of credit expressed as a yearly rate. This includes interest and certain fees, allowing consumers to compare credit offers on a standardized basis.
+
+2. FINANCE CHARGE
+The total dollar amount the consumer will pay for using credit, including interest, service charges, transaction fees, and certain insurance premiums.
+
+3. AMOUNT FINANCED
+The actual amount of credit provided to the consumer.
+
+4. TOTAL OF PAYMENTS
+The total amount the consumer will have paid when the loan is fully repaid, including principal and all finance charges.
+
+5. PAYMENT SCHEDULE
+Number, amount, and timing of payments required under the credit agreement.
+
+TYPES OF CREDIT COVERED:
+- Open-end credit (credit cards, home equity lines of credit)
+- Closed-end credit (mortgages, auto loans, personal loans)
+
+CREDIT CARD SPECIFIC PROTECTIONS:
+- Issuers must provide at least 21 days to pay before finance charges on new purchases
+- Interest rate increases require 45 days advance notice
+- Payments above minimum must be applied to highest-rate balance first
+- Double-cycle billing is prohibited
+- Over-limit fees require consumer opt-in
+- Consumers under 21 need a co-signer or proof of ability to pay
+- Gift cards cannot expire within 5 years
+
+RIGHT OF RESCISSION:
+For certain home-secured loans (not purchase money mortgages), consumers have a 3-business-day right to cancel the transaction after closing.
+
+BILLING ERROR RESOLUTION:
+For open-end credit, consumers can dispute billing errors by writing to the creditor within 60 days of receiving the statement. The creditor must acknowledge within 30 days and resolve within two billing cycles (not more than 90 days).
+
+LIABILITY FOR UNAUTHORIZED CHARGES:
+Consumer liability for unauthorized credit card charges is limited to $50. If reported before any unauthorized charges are made, liability is $0.
+
+IMPACT ON CREDIT REPORTING:
+TILA interacts with credit reporting in several ways:
+- Late payment definitions must align with billing cycle disclosures
+- Payment allocation affects reported balances
+- Rate changes may affect utilization ratios
+- Disputed billing errors cannot be reported as delinquent during investigation
+
+ENFORCEMENT:
+TILA is enforced by the CFPB, FTC, and other federal agencies. Consumers may also file private lawsuits for actual damages, statutory damages, and attorney's fees.

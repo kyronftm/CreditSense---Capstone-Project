@@ -1,25 +1,13 @@
-# ─────────────────────────────────────────────
-# Financial Statement Analyzer — Requirements
-# ─────────────────────────────────────────────
-
-# Core UI
-gradio>=4.44.0
-
-# LLM & orchestration
-openai>=1.30.0
-langchain>=0.2.0
-langchain-core>=0.2.0
-langchain-openai>=0.1.0
-langgraph>=0.1.0
-
-# PDF extraction
-pypdf>=4.0.0
-
-# Optional: richer PDF table extraction
-# pdfplumber>=0.11.0
-
-# Optional: Anthropic PDF vision (Only if we have Anthropic API Key)
-# anthropic>=0.25.0
-
-# Environment variables
+langgraph>=0.2.0
+langchain-anthropic>=0.3.0
+langchain-core>=0.3.0
+pdfplumber>=0.11.0
+pydantic>=2.0.0
 python-dotenv>=1.0.0
+reportlab>=4.0.0
+
+# RAG dependencies
+chromadb>=0.4.0
+sentence-transformers>=3.0.0
+requests>=2.31.0
+pypdf>=4.0.0

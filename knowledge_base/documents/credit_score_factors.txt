@@ -1,0 +1,99 @@
+CREDIT SCORE FACTORS AND METHODOLOGY — COMPREHENSIVE GUIDE
+Based on FICO Score Model and Official CFPB/Federal Reserve Guidance
+
+CREDIT SCORE RANGES (FICO Score 8):
+- Exceptional/Excellent: 800-850
+- Very Good: 740-799
+- Good: 670-739
+- Fair: 580-669
+- Poor: 300-579
+
+THE FIVE FACTORS THAT DETERMINE YOUR CREDIT SCORE:
+
+1. PAYMENT HISTORY (35% of FICO Score)
+This is the single most important factor in credit scoring.
+- On-time payments: Consistently paying all bills on or before the due date is the best way to maintain a strong payment history.
+- Late payments: A single late payment can lower a credit score significantly, especially for consumers with otherwise clean histories. The impact depends on:
+  - How late the payment was (30, 60, 90, 120+ days)
+  - How recently the late payment occurred
+  - How many late payments exist
+- Collections: Accounts sent to collections remain on credit reports for 7 years from the date of first delinquency.
+- Public records: Bankruptcies (Chapter 7 remains 10 years, Chapter 13 remains 7 years), foreclosures (7 years), tax liens.
+- Recovery: The negative impact of late payments diminishes over time. After 12-24 months of on-time payments, the impact decreases substantially.
+
+2. AMOUNTS OWED / CREDIT UTILIZATION (30% of FICO Score)
+Credit utilization ratio is the percentage of available credit being used.
+- Recommended utilization: Below 30% is generally recommended; below 10% is optimal for the highest scores.
+- Per-card and overall: Both individual card utilization and total utilization across all revolving accounts matter.
+- High utilization impact: Using more than 50% of available credit significantly reduces scores.
+- Zero utilization: Having 0% utilization (no balances) may not produce the highest scores. A small utilization (1-5%) may be optimal.
+- Installment loan balances: The ratio of remaining balance to original loan amount also matters for installment loans.
+- Reducing utilization: This is one of the fastest ways to improve a credit score. Reducing balances can show improvement within 1-2 billing cycles.
+
+3. LENGTH OF CREDIT HISTORY (15% of FICO Score)
+Longer credit history generally results in higher scores.
+- Average age of accounts: Calculated across all open accounts.
+- Age of oldest account: Having a long-standing account demonstrates credit management experience.
+- Age of newest account: Very new accounts lower the average age.
+- Why NOT to close old accounts: Closing old accounts reduces average account age and total credit limit, potentially hurting the score.
+- Building history: It takes at least 6 months of credit history to generate a FICO score.
+
+4. CREDIT MIX (10% of FICO Score)
+Having a diverse mix of credit types can help the score.
+- Types of credit:
+  - Revolving credit (credit cards, home equity lines)
+  - Installment loans (mortgages, auto loans, student loans, personal loans)
+  - Open accounts (charge cards paid in full each month)
+- Optimal mix: Having both revolving and installment credit demonstrates the ability to manage different types of debt.
+- Not essential: A consumer does not need one of each type. Do NOT open new accounts solely for mix purposes.
+
+5. NEW CREDIT / INQUIRIES (10% of FICO Score)
+Opening many new accounts in a short period increases risk.
+- Hard inquiries: Occur when a lender checks credit for a lending decision. Each hard inquiry can temporarily lower the score by 5-10 points.
+- Soft inquiries: Do NOT affect the score (employer checks, personal credit checks, pre-approved offers).
+- Rate shopping: Multiple inquiries for the same type of loan (mortgage, auto, student) within a 14-45 day window count as a single inquiry.
+- Duration: Hard inquiries affect the score for 12 months but remain visible on the report for 2 years.
+- New accounts: Opening several accounts in a short period looks risky, especially for consumers with short credit histories.
+
+CREDIT SCORE IMPROVEMENT STRATEGIES BY TIER:
+
+FOR POOR CREDIT (300-579):
+- Focus on making all payments on time going forward
+- Address any accounts in collections — consider negotiating pay-for-delete agreements
+- Consider a secured credit card to build positive payment history
+- Become an authorized user on a family member's well-managed credit card
+- Check credit reports for errors and dispute any inaccuracies
+- Expected improvement timeline: 6-18 months for significant improvement
+
+FOR FAIR CREDIT (580-669):
+- Prioritize reducing credit card balances below 30% utilization
+- Set up automatic payments to avoid future late payments
+- Do not apply for new credit unless absolutely necessary
+- Keep all existing accounts open, even if not used regularly
+- Dispute any errors on credit reports
+- Expected improvement timeline: 3-12 months for 20-50 point improvement
+
+FOR GOOD CREDIT (670-739):
+- Optimize utilization below 10% on all cards
+- Continue consistent on-time payment track record
+- Avoid opening unnecessary new accounts
+- Let credit history age naturally
+- Monitor credit reports regularly for accuracy
+- Expected improvement timeline: 6-12 months for 20-40 point improvement
+
+FOR VERY GOOD CREDIT (740-799):
+- Maintain low utilization (under 10%)
+- Keep oldest accounts active
+- Limit hard inquiries to necessary applications
+- Maintain a healthy credit mix
+- Continue monitoring for any errors
+- Expected improvement timeline: 12+ months for incremental gains
+
+SCORE RECOVERY TIMELINES:
+- Late payment (30 days): 1-2 years to fully recover
+- Late payment (90 days): 3-7 years to fully recover
+- Collection account: 3-7 years (impact diminishes over time)
+- Bankruptcy (Chapter 7): 7-10 years
+- Bankruptcy (Chapter 13): 5-7 years
+- Hard inquiry: 12 months impact, 2 years on report
+- High utilization: 1-2 billing cycles after paying down

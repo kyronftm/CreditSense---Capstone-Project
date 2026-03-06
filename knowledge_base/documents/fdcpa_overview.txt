@@ -1,0 +1,71 @@
+FAIR DEBT COLLECTION PRACTICES ACT (FDCPA) — OVERVIEW
+15 U.S.C. § 1692 et seq.
+
+The Fair Debt Collection Practices Act (FDCPA) restricts the practices of third-party debt collectors when collecting consumer debts. It provides consumers with rights to dispute debts and limits abusive collection practices.
+
+COVERED DEBTS:
+The FDCPA covers personal, family, and household debts including:
+- Credit card debt
+- Auto loans
+- Medical debt
+- Mortgages
+- Student loans (private)
+
+WHO IS COVERED:
+The FDCPA applies to third-party debt collectors — companies or individuals who regularly collect debts owed to others. Original creditors collecting their own debts are generally NOT covered (but may be covered by state laws).
+
+CONSUMER RIGHTS UNDER FDCPA:
+
+1. RIGHT TO VALIDATION OF DEBT
+Within 5 days of first contact, a debt collector must send a written validation notice including:
+- The amount of the debt
+- The name of the creditor
+- A statement that the consumer has 30 days to dispute the debt
+- A statement that if disputed, the collector will provide verification
+
+2. RIGHT TO DISPUTE
+Consumers can dispute a debt within 30 days of receiving the validation notice. Upon receiving a written dispute, the collector must:
+- Cease collection activity on the disputed amount
+- Obtain verification of the debt
+- Mail verification to the consumer
+
+3. RIGHT TO REQUEST CEASE COMMUNICATION
+Consumers can request in writing that a debt collector stop all communication. After receiving such a request, the collector can only contact the consumer to:
+- Advise that collection efforts are being terminated
+- Notify of a specific intended action (e.g., lawsuit)
+
+PROHIBITED PRACTICES:
+
+Harassment or Abuse:
+- Threats of violence or harm
+- Use of obscene or profane language
+- Repeated phone calls intended to annoy
+- Publishing lists of consumers who allegedly refuse to pay debts
+
+False or Misleading Representations:
+- Falsely implying they are attorneys or government representatives
+- Misrepresenting the amount owed
+- Threatening actions they cannot legally take
+- Falsely implying the consumer committed a crime
+
+Unfair Practices:
+- Collecting amounts not authorized by the agreement or law
+- Depositing post-dated checks prematurely
+- Communicating with consumers at inconvenient times (before 8 AM or after 9 PM)
+- Contacting consumers at their workplace if the employer disapproves
+
+IMPACT ON CREDIT REPORTS:
+Debt collectors who report to credit bureaus must:
+- Report accurate information
+- Notify the bureau if the consumer disputes the debt
+- Report the debt as disputed if the consumer has filed a dispute
+- Remove inaccurate information from credit reports
+
+STATUTE OF LIMITATIONS:
+The FDCPA has a one-year statute of limitations for consumers to file lawsuits. However, state laws may provide longer periods. The statute of limitations on the underlying debt varies by state (typically 3-6 years).
+
+REMEDIES:
+Consumers who sue and win can recover:
+- Actual damages (emotional distress, lost wages, etc.)
+- Statutory damages up to $1,000 per lawsuit
+- Attorney's fees and court costs
